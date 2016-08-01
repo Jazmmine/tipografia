@@ -1,0 +1,32 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+
+nav{
+	padding-left: 10px; 
+}
+
+a{
+	display: inline-block;
+	width: 15%;
+	height: 100%;
+	text-decoration: none;
+	text-align: center;
+	background-color: #FAFAFA;
+	padding: 20px 5px 20px 5px; 
+	margin-top: 20px;
+	color: #585858;
+	opacity: 0.8;
+	font-family: "Roboto";
+}
+
+a:hover{
+	width: 20%;
+	height: 100px;
+	color: #A9BCF5;
+	font-family: 
+	-moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	-o-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
